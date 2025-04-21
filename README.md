@@ -1,10 +1,9 @@
-
 # 🧠 Image Classification Using Transfer Learning
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 > ⚡ Classify images with high accuracy using AI-powered transfer learning.  
 > Built for fast, accurate, and intuitive performance — no prior training data needed.
@@ -12,9 +11,12 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/your-username/image-classification-transfer-learning/blob/main/assets/sample_demo.jpg?raw=true" width="100%" />
+  <img src="https://github.com/ISK27/Image_Classification_Using_Transfer_Learning/Sample Output/Image_Classifier.png?raw=true" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/ISK27/Image_Classification_Using_Transfer_Learning/Sample Output/About_Page.png?raw=true" width="100%" />
+</p>
 ---
 
 ## ✨ Key Features
@@ -108,4 +110,6 @@ streamlit run app/app.py
 
 ## 🔗 Connect With Us
 
-Stay connected for more cool projects and updates
+Stay connected for more cool projects and updates!
+
+
