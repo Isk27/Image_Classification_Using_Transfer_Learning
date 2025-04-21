@@ -11,11 +11,11 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/ISK27/Image_Classification_Using_Transfer_Learning/Sample Output/Image_Classifier.png?raw=true" width="100%" />
+  <img src="https://github.com/ISK27/Image_Classification_Using_Transfer_Learning/blob/main/Sample Output/Image_Classifier.png?raw=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ISK27/Image_Classification_Using_Transfer_Learning/Sample Output/About_Page.png?raw=true" width="100%" />
+  <img src="https://github.com/ISK27/Image_Classification_Using_Transfer_Learning/blob/main/Sample Output/About_Page.png?raw=true" width="100%" />
 </p>
 ---
 
